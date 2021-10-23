@@ -1,0 +1,6 @@
+server:
+  port: 8500
+
+kafka:
+  producer:
+    srvAddr: 127.0.0.1:9092
